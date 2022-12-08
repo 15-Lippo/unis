@@ -156,7 +156,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
+  }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
   "license": "GPL-3.0-or-later",
   "dependencies": {}
 }
