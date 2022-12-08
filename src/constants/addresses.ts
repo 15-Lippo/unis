@@ -64,7 +64,7 @@ export const ENS_REGISTRAR_ADDRESSES: AddressMap = {
   [SupportedChainId.RINKEBY]: '0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e',
 }
 export const SOCKS_CONTROLLER_ADDRESSES: AddressMap = {
-  [SupportedChainId.MAINNET]: '0x65770b5283117639760beA3F867b69b3697a91dd',
+  [SupportedChainId.MAINNET]: '0x16268D8E22Df9cBDEDCB081f5cD7dB5c267F0800',
 }
 export const SWAP_ROUTER_ADDRESSES: AddressMap = constructSameAddressMap('0xE592427A0AEce92De3Edee1F18E0157C05861564', [
   SupportedChainId.OPTIMISM,
